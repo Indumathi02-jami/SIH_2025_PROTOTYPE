@@ -1,0 +1,7 @@
+[
+    { "value": "10th", "en": "10th Pass", "hi": "10वीं पास" },
+    { "value": "12th", "en": "12th Pass", "hi": "12वीं पास" },
+    { "value": "diploma", "en": "Diploma", "hi": "डिप्लोमा" },
+    { "value": "graduation", "en": "Graduation", "hi": "स्नातक" },
+    { "value": "postgraduation", "en": "Post Graduation", "hi": "परास्नातक" }
+]

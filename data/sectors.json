@@ -1,0 +1,11 @@
+[
+    { "value": "it", "en": "Information Technology", "hi": "सूचना प्रौद्योगिकी" },
+    { "value": "finance", "en": "Banking & Finance", "hi": "बैंकिंग और वित्त" },
+    { "value": "healthcare", "en": "Healthcare", "hi": "स्वास्थ्य सेवा" },
+    { "value": "education", "en": "Education", "hi": "शिक्षा" },
+    { "value": "manufacturing", "en": "Manufacturing", "hi": "निर्माण" },
+    { "value": "retail", "en": "Retail", "hi": "खुदरा" },
+    { "value": "government", "en": "Government", "hi": "सरकारी" },
+    { "value": "agriculture", "en": "Agriculture", "hi": "कृषि" },
+    { "value": "tourism", "en": "Tourism & Hospitality", "hi": "पर्यटन और आतिथ्य" }
+]

@@ -1,0 +1,42 @@
+{
+    "Technical Skills": [
+        { "value": "Python", "en": "Python", "hi": "पाइथन" },
+        { "value": "Java", "en": "Java", "hi": "जावा" },
+        { "value": "JavaScript", "en": "JavaScript", "hi": "जावास्क्रिप्ट" },
+        { "value": "HTML", "en": "HTML", "hi": "एचटीएमएल" },
+        { "value": "CSS", "en": "CSS", "hi": "सीएसएस" },
+        { "value": "React", "en": "React", "hi": "रिएक्ट" },
+        { "value": "Node.js", "en": "Node.js", "hi": "नोड.जेएस" },
+        { "value": "SQL", "en": "SQL", "hi": "एसक्यूएल" },
+        { "value": "Git", "en": "Git", "hi": "गिट" }
+    ],
+    "Office & Business": [
+        { "value": "MS Office", "en": "MS Office", "hi": "एमएस ऑफिस" },
+        { "value": "MS Excel", "en": "MS Excel", "hi": "एमएस एक्सेल" },
+        { "value": "MS Word", "en": "MS Word", "hi": "एमएस वर्ड" },
+        { "value": "PowerPoint", "en": "PowerPoint", "hi": "पावरपॉइंट" },
+        { "value": "Data Entry", "en": "Data Entry", "hi": "डाटा एंट्री" },
+        { "value": "Typing", "en": "Typing", "hi": "टाइपिंग" },
+        { "value": "Accounting", "en": "Accounting", "hi": "अकाउंटिंग" }
+    ],
+    "Communication & Marketing": [
+        { "value": "Communication", "en": "Communication", "hi": "संचार" },
+        { "value": "Content Writing", "en": "Content Writing", "hi": "सामग्री लेखन" },
+        { "value": "Social Media", "en": "Social Media Marketing", "hi": "सोशल मीडिया मार्केटिंग" },
+        { "value": "SEO", "en": "SEO", "hi": "एसईओ" },
+        { "value": "Digital Marketing", "en": "Digital Marketing", "hi": "डिजिटल मार्केटिंग" },
+        { "value": "Customer Service", "en": "Customer Service", "hi": "ग्राहक सेवा" }
+    ],
+    "Specialized Skills": [
+        { "value": "Teaching", "en": "Teaching", "hi": "शिक्षण" },
+        { "value": "Healthcare", "en": "Healthcare", "hi": "स्वास्थ्य सेवा" },
+        { "value": "Patient Care", "en": "Patient Care", "hi": "रोगी देखभाल" },
+        { "value": "First Aid", "en": "First Aid", "hi": "प्राथमिक उपचार" },
+        { "value": "Quality Control", "en": "Quality Control", "hi": "गुणवत्ता नियंत्रण" },
+        { "value": "Safety Protocols", "en": "Safety Protocols", "hi": "सुरक्षा प्रोटोकॉल" },
+        { "value": "Hospitality", "en": "Hospitality", "hi": "अतिथि सेवा" },
+        { "value": "Language Skills", "en": "Language Skills", "hi": "भाषा कौशल" },
+        { "value": "Problem Solving", "en": "Problem Solving", "hi": "समस्या समाधान" },
+        { "value": "Teamwork", "en": "Teamwork", "hi": "टीम वर्क" }
+    ]
+}

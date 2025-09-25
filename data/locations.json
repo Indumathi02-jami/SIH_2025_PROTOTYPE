@@ -1,0 +1,10 @@
+[
+    { "value": "Mumbai", "en": "Mumbai", "hi": "मुंबई" },
+    { "value": "Delhi", "en": "Delhi", "hi": "दिल्ली" },
+    { "value": "Bangalore", "en": "Bangalore", "hi": "बेंगलुरु" },
+    { "value": "Chennai", "en": "Chennai", "hi": "चेन्नई" },
+    { "value": "Hyderabad", "en": "Hyderabad", "hi": "हैदराबाद" },
+    { "value": "Kolkata", "en": "Kolkata", "hi": "कोलकाता" },
+    { "value": "Pune", "en": "Pune", "hi": "पुणे" },
+    { "value": "Ahmedabad", "en": "Ahmedabad", "hi": "अहमदाबाद" }
+]

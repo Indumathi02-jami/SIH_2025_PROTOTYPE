@@ -1,0 +1,18 @@
+[
+    { "code": "en", "name": "English" },
+    { "code": "hi", "name": "हिंदी" },
+    { "code": "bn", "name": "বাংলা" },
+    { "code": "ta", "name": "தமிழ்" },
+    { "code": "te", "name": "తెలుగు" },
+    { "code": "kn", "name": "ಕನ್ನಡ" },
+    { "code": "ml", "name": "മലയാളം" },
+    { "code": "mr", "name": "मराठी" },
+    { "code": "gu", "name": "ગુજરાતી" },
+    { "code": "pa", "name": "ਪੰਜਾਬੀ" },
+    { "code": "or", "name": "ଓଡ଼ିଆ" },
+    { "code": "ur", "name": "اردو" },
+    { "code": "as", "name": "অসমীয়া" },
+    { "code": "ks", "name": "کٲشُر" },
+    { "code": "sd", "name": "سنڌي" },
+    { "code": "sa", "name": "संस्कृतम्" }
+]

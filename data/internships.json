@@ -1,0 +1,112 @@
+[
+    {
+        "id": 1,
+        "title": "Software Development Intern",
+        "company": "Tech Mahindra",
+        "location": "Bangalore",
+        "sector": "it",
+        "requiredSkills": ["Python", "JavaScript", "Git", "Problem Solving"],
+        "minEducation": "graduation",
+        "duration": "6 months",
+        "stipend": "₹15,000/month"
+    },
+    {
+        "id": 2,
+        "title": "Data Entry Operator",
+        "company": "Government of India",
+        "location": "Delhi",
+        "sector": "government",
+        "requiredSkills": ["MS Office", "Typing", "Data Entry", "Computer Basics"],
+        "minEducation": "12th",
+        "duration": "3 months",
+        "stipend": "₹8,000/month"
+    },
+    {
+        "id": 3,
+        "title": "Digital Marketing Intern",
+        "company": "Flipkart",
+        "location": "Mumbai",
+        "sector": "retail",
+        "requiredSkills": ["Social Media", "Content Writing", "SEO", "Communication"],
+        "minEducation": "graduation",
+        "duration": "4 months",
+        "stipend": "₹12,000/month"
+    },
+    {
+        "id": 4,
+        "title": "Banking Assistant",
+        "company": "State Bank of India",
+        "location": "Mumbai",
+        "sector": "finance",
+        "requiredSkills": ["Accounting", "MS Excel", "Communication", "Customer Service"],
+        "minEducation": "graduation",
+        "duration": "6 months",
+        "stipend": "₹10,000/month"
+    },
+    {
+        "id": 5,
+        "title": "Healthcare Assistant",
+        "company": "Apollo Hospitals",
+        "location": "Chennai",
+        "sector": "healthcare",
+        "requiredSkills": ["Patient Care", "Medical Records", "Communication", "First Aid"],
+        "minEducation": "12th",
+        "duration": "3 months",
+        "stipend": "₹9,000/month"
+    },
+    {
+        "id": 6,
+        "title": "Teaching Assistant",
+        "company": "Byju's",
+        "location": "Bangalore",
+        "sector": "education",
+        "requiredSkills": ["Teaching", "Communication", "Subject Knowledge", "Patience"],
+        "minEducation": "graduation",
+        "duration": "4 months",
+        "stipend": "₹11,000/month"
+    },
+    {
+        "id": 7,
+        "title": "Manufacturing Trainee",
+        "company": "Tata Motors",
+        "location": "Pune",
+        "sector": "manufacturing",
+        "requiredSkills": ["Technical Skills", "Quality Control", "Safety", "Teamwork"],
+        "minEducation": "diploma",
+        "duration": "6 months",
+        "stipend": "₹13,000/month"
+    },
+    {
+        "id": 8,
+        "title": "Agriculture Field Assistant",
+        "company": "IFFCO",
+        "location": "Rural Areas",
+        "sector": "agriculture",
+        "requiredSkills": ["Farming Knowledge", "Field Work", "Communication", "Data Collection"],
+        "minEducation": "10th",
+        "duration": "3 months",
+        "stipend": "₹7,000/month"
+    },
+    {
+        "id": 9,
+        "title": "Hotel Management Trainee",
+        "company": "Taj Hotels",
+        "location": "Mumbai",
+        "sector": "tourism",
+        "requiredSkills": ["Hospitality", "Communication", "Customer Service", "Language Skills"],
+        "minEducation": "12th",
+        "duration": "6 months",
+        "stipend": "₹10,000/month"
+    },
+    {
+        "id": 10,
+        "title": "Web Developer Intern",
+        "company": "Infosys",
+        "location": "Hyderabad",
+        "sector": "it",
+        "requiredSkills": ["HTML", "CSS", "JavaScript", "React", "Node.js"],
+        "minEducation": "graduation",
+        "duration": "6 months",
+        "stipend": "₹18,000/month"
+    }
+]
